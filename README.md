@@ -4,4 +4,4 @@
 
 - Playing With KeyUp & KeyDown & keyRight & keyleft
 
-- For Good Play add ZQSD or QWDS
+- For Good Play add ZQSD or WASD
